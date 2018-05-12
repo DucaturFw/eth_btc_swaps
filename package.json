@@ -1,0 +1,22 @@
+{
+  "name": "eth_swaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key2hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DucaturFw/eth_swaps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DucaturFw/eth_swaps/issues"
+  },
+  "homepage": "https://github.com/DucaturFw/eth_swaps#readme",
+  "dependencies": {
+    "ripemd160": "^2.0.2"
+  }
+}
