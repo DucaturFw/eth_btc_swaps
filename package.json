@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DucaturFw/eth_swaps#readme",
   "dependencies": {
+    "bitcoinjs-lib": "^3.3.2",
+    "bitcore-mnemonic": "^1.5.0",
     "eth-hd-wallet": "^0.3.0",
     "ethereumjs-wallet": "^0.6.0",
     "ripemd160": "^2.0.2"
